@@ -1,9 +1,12 @@
-com\sms\orderservice\model\OrderLineItems.class
-com\sms\orderservice\OrderServiceApplication.class
+com\sms\orderservice\config\WebClientConfig.class
+com\sms\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\sms\orderservice\dto\InventoryResponse.class
 com\sms\orderservice\dto\OrderRequest.class
 com\sms\orderservice\controller\OrderController.class
-com\sms\orderservice\dto\OrderLineItemsDto.class
 com\sms\orderservice\repository\OrderRepository.class
 com\sms\orderservice\model\Order.class
+com\sms\orderservice\model\OrderLineItems.class
+com\sms\orderservice\OrderServiceApplication.class
+com\sms\orderservice\dto\OrderLineItemsDto.class
 com\sms\orderservice\service\IOrderService.class
 com\sms\orderservice\serviceImpl\OrderServiceImpl.class

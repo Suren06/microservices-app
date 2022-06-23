@@ -1,4 +1,6 @@
 C:\Users\boyillas\Documents\Suren\microservices-app\order-service\src\main\java\com\sms\orderservice\service\IOrderService.java
+C:\Users\boyillas\Documents\Suren\microservices-app\order-service\src\main\java\com\sms\orderservice\config\WebClientConfig.java
+C:\Users\boyillas\Documents\Suren\microservices-app\order-service\src\main\java\com\sms\orderservice\dto\InventoryResponse.java
 C:\Users\boyillas\Documents\Suren\microservices-app\order-service\src\main\java\com\sms\orderservice\OrderServiceApplication.java
 C:\Users\boyillas\Documents\Suren\microservices-app\order-service\src\main\java\com\sms\orderservice\controller\OrderController.java
 C:\Users\boyillas\Documents\Suren\microservices-app\order-service\src\main\java\com\sms\orderservice\dto\OrderLineItemsDto.java

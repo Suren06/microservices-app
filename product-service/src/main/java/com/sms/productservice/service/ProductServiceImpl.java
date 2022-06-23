@@ -29,7 +29,6 @@ public class ProductServiceImpl implements IProductService{
     }
 
     private ProductResponse mapToProductResponse(Product product){
-
         return ProductResponse.builder()
                 .id(product.getId())
                 .name(product.getName())

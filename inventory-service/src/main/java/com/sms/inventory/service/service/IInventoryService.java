@@ -1,6 +1,10 @@
 package com.sms.inventory.service.service;
 
+import com.sms.inventory.service.dto.InventoryResponse;
+
+import java.util.List;
+
 public interface IInventoryService {
 
-    boolean isInStock(String skuCode);
+    List<InventoryResponse> isInStock(List<String> skuCode);
 }
